@@ -12,7 +12,7 @@ class LangManager {
     }
 
     getContent(info) {
-        return this.#content;
+        return this.#content[info];
     }
 
     fixContent(fileLen) {
