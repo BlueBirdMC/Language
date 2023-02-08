@@ -5,7 +5,7 @@ function Language(language, content) {
     try {
         new LangManager(language).getContent(content);
     } catch(err) {
-        if (err) return new LangManager(BaseLanguage).getContent(content);
+            return new LangManager(BaseLanguage).getContent(content);
     }
 }
 
