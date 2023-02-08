@@ -1,11 +1,12 @@
 const LangManager = require('./LanguageManager');
 
 var BaseLanguage = 'eng';
+
 function Language(language, content) {
     try {
-        new LangManager(language).getContent(content);
+        return new LangManager(language).getContent(content);
     } catch(err) {
-            return new LangManager(BaseLanguage).getContent(content);
+        if (err) return new LangManager(BaseLanguage).getContent(content);
     }
 }
 
