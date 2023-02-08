@@ -16,6 +16,9 @@
     "url": "https://github.com/BlueBirdMC/Language/issues"
   },
   "homepage": "https://github.com/BlueBirdMC/Language#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "dependencies": {
     "fs": "^0.0.1-security"
   }
