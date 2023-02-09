@@ -25,6 +25,6 @@
             "commandName": "kick",
             "commandDescription": "kick a player from the server",
             "reason": "You have been kicked due to: %rsn%"
-        }
+        ]
     }
 }
