@@ -12,8 +12,8 @@
   },
   "player": {
     "data": {
-      "loading": "player dataが読み込まれる。",
-      "loaded": "player dataを読み込んでいます。",
+      "loading": "players dataが読み込まれる。",
+      "loaded": "Players dataを読み込んでいます。",
     }
   },
   "plugins": {
