@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-class LangManager {
+class LanguageManager {
     #content;
 
     constructor(language) {
@@ -55,4 +55,4 @@ class LangManager {
     }
 }
 
-module.exports = LangManager;
+module.exports = LanguageManager;
