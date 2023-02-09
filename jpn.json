@@ -1,0 +1,30 @@
+{
+  "name": "日本語",
+  "server": {
+    "loading": "サーバーをロードしています。",
+    "loaded": "サーバーがロードされました。",
+    "loadFinish": "で行われた %rsn%",
+    "closed": "%red%サーバーが破壊されました。",
+  },
+  "world": {
+    "loading": "ローディング・ワールドズ。",
+    "loaded": "ワールドが搭載されました。",
+  },
+  "player": {
+    "data": {
+      "loading": "player dataが読み込まれる。",
+      "loaded": "player dataを読み込んでいます。",
+    }
+  },
+  "plugins": {
+    "loading": "プラグインを読み込んでいます。",
+    "loaded": "プラグインをロードしました。",
+  },
+  "commands": {
+    [
+      "name": "kick",
+      "description": "",
+      "reason": "",
+    ]
+  }
+}
