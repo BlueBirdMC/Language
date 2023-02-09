@@ -1,0 +1,30 @@
+{
+    "name": "English",
+    "server": {
+        "loading": "Loading server."
+        "loaded": "Server loaded.",
+        "loadFinish": "Done in %rsn%",
+        "closed": "%red%Server killed"
+    },
+    "world": {
+        "loading": "Loading worlds.",
+        "loaded": "Worlds loaded."
+    },
+    "player": {
+        "data": {
+            "loading": "Loading players data.",
+            "loaded": "Players data loaded."
+        } 
+    },
+    "plugin": {
+        "loading": "Loading plugins.",
+        "loaded": "Plugins loaded."
+    },
+    "commands": {
+        [
+            "commandName": "kick",
+            "commandDescription": "kick a player from the server",
+            "reason": "You have been kicked due to: %rsn%"
+        }
+    }
+}
