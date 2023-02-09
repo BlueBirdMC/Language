@@ -4,7 +4,7 @@
     "loading": "Loading server.",
     "loaded": "Server loaded.",
     "loadFinish": "Done in %rsn%",
-    "closed": "%red%Server killed"
+    "closed": "Server killed"
   },
   "world": {
     "loading": "Loading worlds.",
