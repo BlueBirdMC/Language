@@ -3,7 +3,7 @@
   "server": {
     "loading": "Loading server.",
     "loaded": "Server loaded.",
-    "loadFinish": "Done in %rsn%",
+    "loadFinish": "Done in (%rsn%)s!",
     "closed": "Server killed"
   },
   "world": {
