@@ -11,10 +11,8 @@
     "loaded": "Worlds loaded."
   },
   "player": {
-    "data": {
-      "loading": "Loading players data.",
-      "loaded": "Players data loaded."
-    }
+    "loading": "Loading players data.",
+    "loaded": "Players data loaded."
   },
   "plugins": {
     "loading": "Loading plugins.",
