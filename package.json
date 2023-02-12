@@ -1,8 +1,8 @@
 {
   "name": "bbmc-lang",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "Languages for bluebirdMC",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
