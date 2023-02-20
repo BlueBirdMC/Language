@@ -23,6 +23,16 @@
       "name": "kick",
       "description": "kick a player from the server",
       "reason": "You have been kicked from the server due to: %rsn%"
+    },
+    {
+      "name": "gamemode",
+      "description": "Change your ingame gamemode.",
+      "wrongPlayername": "%red%[ERROR] The player is invalid, Check that the name you entered is correct.",
+      "noPlayername": "%red%[ERROR] You must provide a player name.",
+      "unknownGamemode": "%red%[ERROR] The gamemode is unknown.",
+      "invalidGamemode": "%red%[ERROR] The gamemode requested is invalid.",
+      "changedGamemode": "%green%[SUCCESS] gamemode has been changed to %arg%",
+      "listGamemoode": "%red%[ERROR] Please provide one of the following: 'survival', 'creative' or 'adventure'."
     }
   ]
 }
