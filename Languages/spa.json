@@ -1,0 +1,38 @@
+{
+  "name": "English",
+  "server": {
+    "loading": "Cargando servidor.",
+    "loaded": "Servidor cargado.",
+    "loadFinish": "Cargado en (%rsn%)s!",
+    "closed": "Servidor cerrado"
+  },
+  "world": {
+    "loading": "Cargando mundos.",
+    "loaded": "Mundos cargados."
+  },
+  "player": {
+    "loading": "Cargando datos de jugadores.",
+    "loaded": "Datos de jugadores cargados."
+  },
+  "plugins": {
+    "loading": "Cargando complementos.",
+    "loaded": "Complementos cargados."
+  },
+  "commands": [
+    {
+      "name": "kick",
+      "description": "Expulsar a un jugador del servidor",
+      "reason": "Has sido expulsado del servidor por: %rsn%"
+    },
+    {
+      "name": "gamemode",
+      "description": "Cambia tu modo de juego.",
+      "wrongPlayername": "%red%[ERROR] El jugador no es válido, compruebe que el nombre introducido es correcto.",
+      "noPlayername": "%red%[ERROR] Debes ingresar el nombre de un jugador.",
+      "unknownGamemode": "%red%[ERROR] El modo de juego es desconocido.",
+      "invalidGamemode": "%red%[ERROR] El modo de juego solicitado no es válido.",
+      "changedGamemode": "%green%[BIEN] Has cambiado tu modo de juego a %arg%",
+      "listGamemoode": "%red%[ERROR] Por favor escriba uno de los siguientes: 'survival', 'creative' or 'adventure'."
+    }
+  ]
+}
